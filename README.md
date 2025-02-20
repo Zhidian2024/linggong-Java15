@@ -24,7 +24,9 @@ uniapp适配支持安卓，ios，微信小程序 ，h5，公众号
 ![10](https://github.com/user-attachments/assets/3d53489e-5528-4670-a94b-81cc339b5f8a)
 ![11](https://github.com/user-attachments/assets/1f9ff039-6272-44ba-80ad-d110c784bdf2)
 ![12](https://github.com/user-attachments/assets/a2dc58b8-a3b4-4819-889a-b33c8c887349)
-![xiaomage](https://github.com/user-attachments/assets/0a11adf9-ebfa-4880-a5c6-878a9ba99e2b)
+#### 有兴趣，加V，备注：来源和项目名称
+![lianxi](https://github.com/user-attachments/assets/5ddeb421-b5f5-4f7f-b027-a573339c42aa)
+
 
 
 
